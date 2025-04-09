@@ -1,4 +1,4 @@
-# 🎧 ymusic_project – Music Streaming Behavior in Springfield & Shelbyville
+# Music Streaming Behavior in Springfield & Shelbyville 🎧 
 This project analyzes music streaming activity in two fictional cities, Springfield and Shelbyville. Using Python and Jupyter Notebook, it explores user behavior, genre preferences, and listening patterns throughout the week.
 
 ## Objectives
