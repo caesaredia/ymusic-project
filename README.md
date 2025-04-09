@@ -31,6 +31,9 @@ The dataset is stored in [`data/ymusic_data.csv`](./data/ymusic_data.csv), conta
   - `time`: Time of streaming
   - `Day`: Day of the week
 
+## Author
+Nabilla
+
 ## How to Run
 Clone the repo and run the notebook:
 
