@@ -12,8 +12,7 @@ This project analyzes music streaming activity in two fictional cities, Springfi
 - Listening behavior differs slightly by day between Springfield and Shelbyville
 
 ## Notebook
-- [`ymusic_analysis.ipynb`](./ymusic_analysis.ipynb):  
-  Exploratory data analysis of music listening behavior in Springfield and Shelbyville cities.
+* [`ymusic_analysis.ipynb`](./ymusic_analysis.ipynb): Exploratory data analysis of music listening behavior.
 
 ## Tools Used
 - **Python**
@@ -22,7 +21,7 @@ This project analyzes music streaming activity in two fictional cities, Springfi
 - **Jupyter Notebook**
 
 ## Dataset
-The dataset is stored in [`data/ymusic_data.csv`](.data/ymusic_data.csv), containing anonymized records of music listening behavior from various urban areas.
+The dataset is stored in [`data/ymusic_data.csv`](./data/ymusic_data.csv), containing anonymized records of music listening behavior from various urban areas.
 - Columns include:
   - `userID`: Unique user identifier
   - `City`: Either "Springfield" or "Shelbyville"
