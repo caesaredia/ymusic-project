@@ -10,3 +10,12 @@ Analysis of music streaming patterns in urban areas.
 - Jupyter Notebook
 - Pandas
 - Matplotlib / Seaborn
+
+## Data
+The dataset is stored in [`1_music_project.csv`](./1_music_project.csv), containing anonymized records of music listening behavior from various urban areas.
+Sample columns include:
+- `city`
+- `user_id`
+- `timestamp`
+- `track_name`
+- `genre`
