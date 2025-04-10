@@ -32,7 +32,7 @@ The dataset is stored in [`data/ymusic_data.csv`](./data/ymusic_data.csv), conta
   - `Day`: Day of the week
 
 ## Author
-Nabilla
+Nabilla Hafsah Caesaredia
 
 ## How to Run
 Clone the repo and run the notebook:
